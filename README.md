@@ -35,6 +35,7 @@ To write a lex program to implement lexical analyzer to recognize a few patterns
 7.	Compile that file with C compiler and verify the output.
 
 # Program :
+````
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
@@ -77,7 +78,7 @@ int main() {
 
     return 0;
 }
-
+````
 # Output :
 
 ![image](https://github.com/user-attachments/assets/8cbb9b14-801d-4868-9201-67928b2af99c)
